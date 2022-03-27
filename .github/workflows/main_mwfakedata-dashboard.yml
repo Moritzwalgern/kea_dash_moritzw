@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'mwfakedata-dashboard'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3ECD8214A471456D83B27978C9D7A5D0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FF9F6DAC0BA94E499511F79532404A6B }}
