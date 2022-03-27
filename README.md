@@ -1,2 +1,3 @@
-# kea_dash_fakedata
-Demo af Dash med data fra en Excel fil - Deploy på Azure
+# kea hand-in 28.03.2022
+# Moritz Walgern
+# BE-IT 2020
